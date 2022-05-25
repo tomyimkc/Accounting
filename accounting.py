@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-from CSV_Creator_Utopia import add_data
+from CSV_Creator import add_data
 import os.path
 from path_dir import path,sep
 
